@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: User Story Formula
+about: The template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
